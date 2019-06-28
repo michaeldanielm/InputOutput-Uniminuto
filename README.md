@@ -8,7 +8,7 @@
     
     
 ## Screenshots
-![CI-Huffman](https://raw.githubusercontent.com/michaeldanielm/InputOutput-Uniminuto/master/Screenshots/1.PNG)
+![CI-Huffman](https://raw.githubusercontent.com/michaeldanielm/InputOutput-Uniminuto/master/Screenshots/1.PNG?token=AGMVKWE72THJXSLGNBXPSJ25D3SH4)
 
 
 ##Installation
