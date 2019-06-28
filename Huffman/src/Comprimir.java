@@ -61,7 +61,7 @@ public class Comprimir {
                     bt = data_in.readByte();
                     freq[to(bt)]++;
                 } catch (EOFException eof) {
-                    System.out.println("End of File");
+                    System.out.println("Fin de Archivo");
                     break;
                 }
             }
@@ -213,7 +213,7 @@ public class Comprimir {
                     bt = data_in.readByte();
                     freq[bt]++;
                 } catch (EOFException eof) {
-                    System.out.println("End of File");
+                    System.out.println("Fin de Archivo");
                     break;
                 }
             }
@@ -365,7 +365,7 @@ public class Comprimir {
             dfs(Root, ""); // DFS para que los códigos
         }
         fakezip(arg1); // archivo zip falso que tendrá el binario de la entrada al archivo fakezip. txt
-        realzip("fakezipped.txt", arg1 + ".huffz"); // haciendo real el archivo zip
+        realzip("fakezipped.txt", arg1 + ".michael"); // haciendo real el archivo zip
 // segun el fakezip.txt
 // expediente
         initHzipping();
