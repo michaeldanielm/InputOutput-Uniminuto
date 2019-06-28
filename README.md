@@ -8,11 +8,15 @@
     
     
 ## Screenshots
+
+select open
 ![CI-Huffman](https://raw.githubusercontent.com/michaeldanielm/InputOutput-Uniminuto/master/Screenshots/1.PNG?token=AGMVKWE72THJXSLGNBXPSJ25D3SH4)
+
+then look for the file and select compress
 ![CI-Huffman](https://github.com/michaeldanielm/InputOutput-Uniminuto/blob/master/Screenshots/2.PNG?raw=true)
-![CI-Huffman](https://raw.githubusercontent.com/michaeldanielm/InputOutput-Uniminuto/master/Screenshots/3.PNG?raw=true)
-![CI-Huffman](https://raw.githubusercontent.com/michaeldanielm/InputOutput-Uniminuto/master/Screenshots/4.PNG?raw=true)
-![CI-Huffman](https://raw.githubusercontent.com/michaeldanielm/InputOutput-Uniminuto/master/Screenshots/5.PNG?raw=true)
+![CI-Huffman](https://raw.githubusercontent.com/michaeldanielm/InputOutput-Uniminuto/master/Screenshots/3.PNG?token=AGMVKWFKU4IG4D35AUD65QS5D3TBA)
+![CI-Huffman](https://raw.githubusercontent.com/michaeldanielm/InputOutput-Uniminuto/master/Screenshots/4.PNG?token=AGMVKWAOFMO7IEKVM346JN25D3TJI)
+![CI-Huffman](https://raw.githubusercontent.com/michaeldanielm/InputOutput-Uniminuto/master/Screenshots/5.PNG?token=AGMVKWEP6HUAOAN4Y4STHQS5D3THK)
 
 
 ##Installation
