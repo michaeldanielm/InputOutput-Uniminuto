@@ -16,7 +16,7 @@
 ![CI-Huffman](https://raw.githubusercontent.com/michaeldanielm/InputOutput-Uniminuto/master/Screenshots/5.PNG?token=AGMVKWEP6HUAOAN4Y4STHQS5D3THK)
 
 
-##Installation
+## Installation
 1. Clone the repo using: `git clone https://github.com/michaeldanielm/InputOutput-Uniminuto`
 2. compile and run the .jar file that is in the executable folder with the name huffman.
 
