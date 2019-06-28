@@ -4,7 +4,7 @@
     Version: 1.0.0
     System requirement: 
     Date of Released: 26th June 2019
-    Copyright: 2019, CI- UNIMINUTO
+    Copyright: 2019, UNIMINUTO
     
     
 ## Screenshots
