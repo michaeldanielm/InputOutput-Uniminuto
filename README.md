@@ -8,7 +8,8 @@
     
     
 ## Screenshots
-![CI-Calculator](https://raw.githubusercontent.com/michaeldanielm/)
+![Huffman](hhttps://raw.githubusercontent.com/michaeldanielm/InputOutput-Uniminuto/master/Screenshots/1.PNG)
+
 
 ##Installation
 1. Clone the repo using: `git clone https://github.com/michaeldanielm/InputOutput-Uniminuto`
